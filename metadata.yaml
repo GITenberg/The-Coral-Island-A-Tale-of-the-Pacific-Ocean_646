@@ -1,0 +1,35 @@
+_repo: The-Coral-Island-A-Tale-of-the-Pacific-Ocean_646
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Oceania -- Juvenile fiction'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Survival skills -- Juvenile fiction'
+- !lcsh 'Robinsonades'
+title: 'The Coral Island: A Tale of the Pacific Ocean'
+url: http://www.gutenberg.org/ebooks/646
