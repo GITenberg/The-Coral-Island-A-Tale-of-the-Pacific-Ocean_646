@@ -2461,7 +2461,7 @@ projections in this stem, which I cannot better describe than by asking
 the reader to suppose that five planks of two inches thick and three feet
 broad had been placed round the trunk of the tree, with their _edges_
 closely fixed to it, from the ground up to the branches, and that these
-planks bad been covered over with the bark of the tree and incorporated
+planks had been covered over with the bark of the tree and incorporated
 with it.  In short, they were just natural buttresses, without which the
 stem could not have supported its heavy and umbrageous top.  We found
 these chestnuts to be very numerous.  They grew chiefly on the banks of
@@ -2784,7 +2784,7 @@ by a volcano; and Peterkin said he thought it must have jumped up of its
 own accord!  We also noticed, what had escaped us before, that the solid
 rocks of which the island was formed were quite different from the live
 coral rocks on the shore, where the wonderful little insects were
-continually working.  They seemed, indeed, to be of the sauce material,--a
+continually working.  They seemed, indeed, to be of the same material,--a
 substance like limestone; but, while the coral rocks were quite full of
 minute cells in which the insects lived, the other rocks inland were hard
 and solid, without the appearance of cells at all.  Our thoughts and
@@ -3510,7 +3510,7 @@ the gloom, we could not help remarking the deep, intense stillness and
 the unutterable gloom of all around us; and, as I thought of the
 stupendous dome above, and the countless gems that had sparkled in the
 torch-light a few minutes before, it came into my mind to consider how
-strange it is that God should make such wonderful and extremely-beautiful
+strange it is that God should make such wonderful and exquisitely beautiful
 works never to be seen at all, except, indeed, by chance visitors such as
 ourselves.
 
@@ -5228,7 +5228,7 @@ By this time the natives outside were all astir, and breakfast in an
 advanced state of preparation.  During the course of it we made sundry
 attempts to converse with the natives by signs, but without effect.  At
 last we hit upon a plan of discovering their names.  Jack pointed to his
-breast and add "Jack," very distinctly; then he pointed to Peterkin and
+breast and said "Jack," very distinctly; then he pointed to Peterkin and
 to me, repeating our names at the same time.  Then he pointed to himself
 again, and said "Jack," and laying his finger on the breast of the chief,
 looked inquiringly into his face.  The chief instantly understood him and
@@ -5627,7 +5627,7 @@ round his waist.  In this shawl were placed two pair of pistols and a
 heavy cutlass.  He wore a beard and moustache, which, like the locks on
 his head, were short, curly, and sprinkled with gray hairs.
 
-"So, youngster," he said, with a Sardonic smile, while I felt his grasp
+"So, youngster," he said, with a sardonic smile, while I felt his grasp
 tighten on my shoulder, "the villains have been baulked of their prey,
 have they?  We shall see, we shall see.  Now, you whelp, look yonder."  As
 he spoke, the pirate uttered a shrill whistle.  In a second or two it was

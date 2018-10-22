@@ -1,5 +1,5 @@
 _repo: The-Coral-Island-A-Tale-of-the-Pacific-Ocean_646
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 646-h/images/coverb.jpg
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Camping -- Juvenile fiction'
 - !lcsh 'Survival skills -- Juvenile fiction'
 - !lcsh 'Robinsonades'
+- GITenberg
 title: 'The Coral Island: A Tale of the Pacific Ocean'
 url: http://www.gutenberg.org/ebooks/646
